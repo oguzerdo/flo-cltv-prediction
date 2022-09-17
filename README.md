@@ -1,6 +1,6 @@
 # FLO - CLTV Prediction
 
-![Untitled](FLO%20-%20CLTV%20Prediction%20691d1a9196f3499aaa37d825c6800c01/Untitled.png)
+![project](/images/project.png)
 
 # Business Problem
 
