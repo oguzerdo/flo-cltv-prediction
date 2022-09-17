@@ -43,7 +43,13 @@ scikit_learn==1.1.2
 ```
 
 ---
+# Files
 
+[*FLO_CLTV_Prediction.ipynb*](https://github.com/oguzerdo/flo-cltv-prediction/blob/main/FLO_CLTV_Prediction.ipynb) - CLTV with BG/NBD & GammaGamma Notebook
+
+[*FLO_CLTV_Prediction.ipynb*](https://github.com/oguzerdo/flo-cltv-prediction/blob/main/app.py) - CLTV with BG/NBD & GammaGamma Python Script
+
+---
 # Author
 
 [Oğuz Erdoğan](http://www.oguzerdogan.com)
