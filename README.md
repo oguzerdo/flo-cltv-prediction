@@ -1,6 +1,6 @@
 # FLO - CLTV Prediction
 
-![project](/images/project.png)
+![ProjectImage](/images/project.png)
 
 # Business Problem
 
