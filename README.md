@@ -10,7 +10,6 @@ FLO wants to determine a roadmap for its sales and marketing activities.
 
 In order to plan for the medium to long term, the company needs to estimate the potential value that existing customers will provide to the company in the future.
 
----
 
 # Dataset Info
 
@@ -32,8 +31,6 @@ In order to plan for the medium to long term, the company needs to estimate the 
 | customer_value_total_ever_online | Total fees paid for the customer's online purchases |
 | interested_in_categories_12 | List of categories the customer has shopped in the last 12 months |
 
----
-
 # Requirements
 
 ```python
@@ -42,14 +39,12 @@ pandas==1.4.3
 scikit_learn==1.1.2
 ```
 
----
 # Files
 
 [*FLO_CLTV_Prediction.ipynb*](https://github.com/oguzerdo/flo-cltv-prediction/blob/main/FLO_CLTV_Prediction.ipynb) - CLTV with BG/NBD & GammaGamma Notebook
 
 [*app.py*](https://github.com/oguzerdo/flo-cltv-prediction/blob/main/app.py) - CLTV with BG/NBD & GammaGamma Python Script
 
----
 # Author
 
 [Oğuz Erdoğan](http://www.oguzerdogan.com)
